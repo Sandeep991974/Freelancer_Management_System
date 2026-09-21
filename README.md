@@ -92,9 +92,9 @@ Freelancer_Management_System/
 `````
 
 
-###📂 Admin Access
-Email/ username :admin@hunarconnect.com| password:admin123
+**📂 Admin Access**
+**Email/ username :admin@hunarconnect.com| password:admin123**
 
-###🙋 Author
+**🙋 Author**
 **Sandeep Chaurasiya
 Full Stack Developer**
